@@ -1,0 +1,760 @@
+fileFormatVersion: 2
+guid: e58b2748c60b2d0468c8f65190ed52e7
+timeCreated: 1456147842
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CacodemonSpriteSheet_0
+    21300002: CacodemonSpriteSheet_1
+    21300004: CacodemonSpriteSheet_2
+    21300006: CacodemonSpriteSheet_3
+    21300008: CacodemonSpriteSheet_4
+    21300010: CacodemonSpriteSheet_5
+    21300012: CacodemonSpriteSheet_6
+    21300014: CacodemonSpriteSheet_7
+    21300016: CacodemonSpriteSheet_8
+    21300018: CacodemonSpriteSheet_9
+    21300020: CacodemonSpriteSheet_10
+    21300022: CacodemonSpriteSheet_11
+    21300024: CacodemonSpriteSheet_12
+    21300026: CacodemonSpriteSheet_13
+    21300028: CacodemonSpriteSheet_14
+    21300030: CacodemonSpriteSheet_15
+    21300032: CacodemonSpriteSheet_16
+    21300034: CacodemonSpriteSheet_17
+    21300036: CacodemonSpriteSheet_18
+    21300038: CacodemonSpriteSheet_19
+    21300040: CacodemonSpriteSheet_20
+    21300042: CacodemonSpriteSheet_21
+    21300044: CacodemonSpriteSheet_22
+    21300046: CacodemonSpriteSheet_23
+    21300048: CacodemonSpriteSheet_24
+    21300050: CacodemonSpriteSheet_25
+    21300052: CacodemonSpriteSheet_26
+    21300054: CacodemonSpriteSheet_27
+    21300056: CacodemonSpriteSheet_28
+    21300058: CacodemonSpriteSheet_29
+    21300060: CacodemonSpriteSheet_30
+    21300062: CacodemonSpriteSheet_31
+    21300064: CacodemonSpriteSheet_32
+    21300066: CacodemonSpriteSheet_33
+    21300068: CacodemonSpriteSheet_34
+    21300070: CacodemonSpriteSheet_35
+    21300072: CacodemonSpriteSheet_36
+    21300074: CacodemonSpriteSheet_37
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: CacodemonSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 318
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 33}
+        - {x: -31.5, y: -33}
+        - {x: 27.5, y: -33}
+        - {x: 31.5, y: -30}
+        - {x: 31.5, y: 33}
+    - name: CacodemonSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 318
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: 33}
+        - {x: -30.5, y: 33}
+        - {x: -30.5, y: -24}
+        - {x: -21.5, y: -33}
+        - {x: 22.5, y: -33}
+        - {x: 30.5, y: -26}
+        - {x: 30.5, y: 31}
+    - name: CacodemonSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 317
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 33.5}
+        - {x: 19, y: 30.5}
+        - {x: 6, y: 29.5}
+        - {x: -19, y: 33.5}
+        - {x: -31, y: 33.5}
+        - {x: -31, y: -30.5}
+        - {x: -27, y: -33.5}
+        - {x: 27, y: -33.5}
+        - {x: 31, y: -32.5}
+        - {x: 31, y: 33.5}
+    - name: CacodemonSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 317
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 33.5}
+        - {x: -31.5, y: 31.5}
+        - {x: -31.5, y: -25.5}
+        - {x: -21.5, y: -33.5}
+        - {x: 30.5, y: -33.5}
+        - {x: 31.5, y: -30.5}
+        - {x: 31.5, y: 33.5}
+    - name: CacodemonSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 318
+        width: 63
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 32.5}
+        - {x: -31.5, y: -29.5}
+        - {x: -30.5, y: -32.5}
+        - {x: 31.5, y: -32.5}
+        - {x: 31.5, y: 32.5}
+    - name: CacodemonSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 318
+        width: 63
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 32.5}
+        - {x: -31.5, y: -29.5}
+        - {x: -29.5, y: -32.5}
+        - {x: 27.5, y: -32.5}
+        - {x: 31.5, y: -22.5}
+        - {x: 31.5, y: 30.5}
+        - {x: 29.5, y: 32.5}
+    - name: CacodemonSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 318
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29.5, y: 32}
+        - {x: 26.5, y: 33}
+        - {x: -29.5, y: 33}
+        - {x: -30.5, y: 30}
+        - {x: -30.5, y: -19}
+        - {x: -27.5, y: -26}
+        - {x: -18.5, y: -33}
+        - {x: 14.5, y: -33}
+        - {x: 20.5, y: -32}
+        - {x: 30.5, y: -22}
+        - {x: 30.5, y: 27}
+    - name: CacodemonSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 317
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: 33.5}
+        - {x: -31, y: 33.5}
+        - {x: -31, y: -33.5}
+        - {x: 22, y: -33.5}
+        - {x: 28, y: -27.5}
+        - {x: 31, y: -19.5}
+    - name: CacodemonSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 240
+        width: 63
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.5, y: 32.5}
+        - {x: -31.5, y: 29.5}
+        - {x: -31.5, y: -25.5}
+        - {x: -28.5, y: -32.5}
+        - {x: 24.5, y: -32.5}
+        - {x: 31.5, y: -22.5}
+        - {x: 31.5, y: 32.5}
+    - name: CacodemonSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 240
+        width: 63
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 32.5}
+        - {x: -31.5, y: -29.5}
+        - {x: -30.5, y: -32.5}
+        - {x: 31.5, y: -32.5}
+        - {x: 31.5, y: 32.5}
+    - name: CacodemonSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 238
+        width: 63
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 34.5}
+        - {x: -31.5, y: 16.5}
+        - {x: -31.5, y: -28.5}
+        - {x: -28.5, y: -34.5}
+        - {x: 29.5, y: -34.5}
+        - {x: 31.5, y: -24.5}
+        - {x: 31.5, y: 18.5}
+        - {x: 25.5, y: 34.5}
+    - name: CacodemonSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 238
+        width: 60
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 34.5}
+        - {x: -30, y: -34.5}
+        - {x: 30, y: -34.5}
+        - {x: 30, y: 34.5}
+    - name: CacodemonSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 238
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 34.5}
+        - {x: -31, y: -27.5}
+        - {x: -26, y: -34.5}
+        - {x: 25, y: -34.5}
+        - {x: 31, y: -33.5}
+        - {x: 31, y: 28.5}
+        - {x: 30, y: 34.5}
+    - name: CacodemonSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 239
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 34}
+        - {x: -31.5, y: -34}
+        - {x: 31.5, y: -34}
+        - {x: 31.5, y: 34}
+    - name: CacodemonSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 239
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 33.5}
+        - {x: -31.5, y: -33.5}
+        - {x: 31.5, y: -33.5}
+        - {x: 31.5, y: 33.5}
+    - name: CacodemonSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 237
+        width: 63
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 35.5}
+        - {x: -31.5, y: -31.5}
+        - {x: -30.5, y: -35.5}
+        - {x: 19.5, y: -35.5}
+        - {x: 31.5, y: -29.5}
+        - {x: 31.5, y: 35.5}
+    - name: CacodemonSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 159
+        width: 61
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: 35.5}
+        - {x: -30.5, y: 35.5}
+        - {x: -30.5, y: -20.5}
+        - {x: -23.5, y: -35.5}
+        - {x: 23.5, y: -35.5}
+        - {x: 30.5, y: -21.5}
+        - {x: 30.5, y: 13.5}
+        - {x: 27.5, y: 31.5}
+    - name: CacodemonSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 157
+        width: 62
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 37.5}
+        - {x: -31, y: 30.5}
+        - {x: -31, y: -35.5}
+        - {x: -27, y: -37.5}
+        - {x: 26, y: -37.5}
+        - {x: 31, y: -25.5}
+        - {x: 31, y: 36.5}
+        - {x: 26, y: 37.5}
+    - name: CacodemonSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 159
+        width: 63
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 35.5}
+        - {x: -31.5, y: -28.5}
+        - {x: -29.5, y: -35.5}
+        - {x: 25.5, y: -35.5}
+        - {x: 31.5, y: -25.5}
+        - {x: 31.5, y: 35.5}
+    - name: CacodemonSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 160
+        width: 63
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 35}
+        - {x: -21.5, y: 31}
+        - {x: -23.5, y: 35}
+        - {x: -31.5, y: 35}
+        - {x: -31.5, y: -35}
+        - {x: 31.5, y: -35}
+        - {x: 31.5, y: 35}
+    - name: CacodemonSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 161
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 33.5}
+        - {x: -31.5, y: 27.5}
+        - {x: -31.5, y: -24.5}
+        - {x: -27.5, y: -33.5}
+        - {x: 29.5, y: -33.5}
+        - {x: 31.5, y: -27.5}
+        - {x: 31.5, y: 33.5}
+    - name: CacodemonSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 162
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 32.5}
+        - {x: -31, y: -21.5}
+        - {x: -21, y: -32.5}
+        - {x: 28, y: -32.5}
+        - {x: 31, y: -22.5}
+        - {x: 31, y: 16.5}
+        - {x: 19, y: 32.5}
+    - name: CacodemonSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 161
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: 34}
+        - {x: -31, y: 34}
+        - {x: -31, y: -27}
+        - {x: -30, y: -32}
+        - {x: -22, y: -34}
+        - {x: 19, y: -34}
+        - {x: 24, y: -31}
+        - {x: 31, y: -18}
+        - {x: 31, y: 26}
+    - name: CacodemonSpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 161
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31.5, y: 33.5}
+        - {x: -26.5, y: 33.5}
+        - {x: -28.5, y: 27.5}
+        - {x: -31.5, y: 9.5}
+        - {x: -31.5, y: -21.5}
+        - {x: -26.5, y: -33.5}
+        - {x: 20.5, y: -33.5}
+        - {x: 27.5, y: -27.5}
+        - {x: 31.5, y: -19.5}
+    - name: CacodemonSpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 84
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 33}
+        - {x: -31.5, y: -25}
+        - {x: -26.5, y: -33}
+        - {x: 31.5, y: -33}
+        - {x: 31.5, y: 33}
+    - name: CacodemonSpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 83
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 33.5}
+        - {x: -31.5, y: -33.5}
+        - {x: 28.5, y: -33.5}
+        - {x: 31.5, y: -32.5}
+        - {x: 31.5, y: 33.5}
+    - name: CacodemonSpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 84
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 32.5}
+        - {x: -31, y: -21.5}
+        - {x: -21, y: -32.5}
+        - {x: 28, y: -32.5}
+        - {x: 31, y: -22.5}
+        - {x: 31, y: 16.5}
+        - {x: 19, y: 32.5}
+    - name: CacodemonSpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 83
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 34}
+        - {x: -31, y: -32}
+        - {x: -26, y: -34}
+        - {x: 29, y: -34}
+        - {x: 31, y: -27}
+        - {x: 31, y: 19}
+        - {x: 28, y: 34}
+    - name: CacodemonSpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 83
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31.5, y: 33.5}
+        - {x: -26.5, y: 33.5}
+        - {x: -28.5, y: 27.5}
+        - {x: -31.5, y: 9.5}
+        - {x: -31.5, y: -21.5}
+        - {x: -26.5, y: -33.5}
+        - {x: 20.5, y: -33.5}
+        - {x: 27.5, y: -27.5}
+        - {x: 31.5, y: -19.5}
+    - name: CacodemonSpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 84
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 33}
+        - {x: -31.5, y: -25}
+        - {x: -26.5, y: -33}
+        - {x: 31.5, y: -33}
+        - {x: 31.5, y: 33}
+    - name: CacodemonSpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 83
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 33.5}
+        - {x: -31.5, y: -33.5}
+        - {x: 28.5, y: -33.5}
+        - {x: 31.5, y: -32.5}
+        - {x: 31.5, y: 33.5}
+    - name: CacodemonSpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 83
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 33.5}
+        - {x: -31.5, y: -31.5}
+        - {x: -29.5, y: -33.5}
+        - {x: 26.5, y: -33.5}
+        - {x: 31.5, y: -31.5}
+        - {x: 31.5, y: 32.5}
+        - {x: 29.5, y: 33.5}
+    - name: CacodemonSpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 5
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 33.5}
+        - {x: -31.5, y: -25.5}
+        - {x: -24.5, y: -33.5}
+        - {x: 25.5, y: -33.5}
+        - {x: 31.5, y: -29.5}
+        - {x: 31.5, y: 33.5}
+    - name: CacodemonSpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 65
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 38.5}
+        - {x: -32.5, y: 30.5}
+        - {x: -32.5, y: -19.5}
+        - {x: -27.5, y: -32.5}
+        - {x: -16.5, y: -38.5}
+        - {x: 22.5, y: -38.5}
+        - {x: 32.5, y: -27.5}
+        - {x: 32.5, y: 38.5}
+    - name: CacodemonSpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 56
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CacodemonSpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 6
+        width: 69
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 33}
+        - {x: -14.5, y: 30}
+        - {x: -19.5, y: 32}
+        - {x: -24.5, y: 33}
+        - {x: -29.5, y: 33}
+        - {x: -34.5, y: 8}
+        - {x: -34.5, y: -33}
+        - {x: 34.5, y: -33}
+        - {x: 34.5, y: 26}
+        - {x: 26.5, y: 33}
+    - name: CacodemonSpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 14
+        width: 75
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 24.5}
+        - {x: -23.5, y: 24.5}
+        - {x: -30.5, y: 14.5}
+        - {x: -37.5, y: -8.5}
+        - {x: -37.5, y: -24.5}
+        - {x: 36.5, y: -24.5}
+        - {x: 37.5, y: -21.5}
+        - {x: 37.5, y: 4.5}
+        - {x: 29.5, y: 19.5}
+    - name: CacodemonSpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 15
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
